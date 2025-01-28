@@ -1,0 +1,176 @@
+
+header{
+    background-color: rgb(160, 209, 242);
+    img{
+       width: 7%;
+       margin-left: 20px;
+    }
+ }
+ A{
+    display: inline;
+    padding: 15px;
+    float: right; 
+    text-decoration: none;
+    color: rgb(43, 43, 141);
+    padding-top: 20PX;
+ }
+ H1{
+   color: rgb(46, 46, 121);
+   margin-top: 30PX;
+   margin-left: 70PX;
+ }
+ 
+ .A{
+  display: flex;
+    IMG{
+      margin-left: 60PX;
+      margin-top: 20PX;
+      width: 50%;
+      height: 50%;
+    }
+   .b{
+      display: inline;
+      padding: 15px;
+      float: right;
+
+      H1{
+         color: rgb(46, 46, 121);
+         margin-top: 10PX;
+         margin-right: 450px;
+       }
+       IMG{
+         width: 12%;
+         margin-left: 70px;
+       }
+       .C{
+        display: flex;
+         H2{
+          margin-top: 35PX;
+          color: rgb(46, 46, 121);
+          margin-left: 30px;
+         }
+       }
+       .D{
+        display: flex;
+        H2{
+          margin-top: 35PX;
+          color: rgb(46, 46, 121);
+          margin-left: 30px;
+         }
+       }
+       .E{
+        display: flex;
+        H2{
+          margin-top: 35PX;
+          color: rgb(46, 46, 121);
+          margin-left: 30px;
+         }
+       }
+   }
+ }
+ .SERVICE{
+  background-color: rgb(229, 226, 226);
+  border-radius: 30PX;
+ }
+ .F{
+  h1{
+    margin-top: 100PX;
+    margin-left: 600px;
+  }
+ }
+ .CARD{
+  display: flex;
+  .CARD1{
+  width: 20%;
+  height: 200PX;
+  background-color: rgb(186, 219, 240);
+  border-radius: 10PX;
+  margin: 35PX;
+    i{
+      margin-top: 30px;
+      margin-left: 120px;
+      font-size: 39px;
+      color: rgb(46, 46, 121); 
+  }
+  H3{
+    margin-left: 50PX;
+    color: rgb(43, 43, 141);
+  }
+  h4{
+    margin-left: 5px;
+  }
+}
+  .CARD2{
+    width: 20%;
+    height: 200PX;
+    background-color: rgb(186, 219, 240);
+    border-radius: 10PX;
+    margin: 35PX;
+    i{
+      margin-top: 30px;
+      margin-left: 120px;
+      font-size: 39px;
+      color: rgb(46, 46, 121);
+  }
+  H3{
+    margin-left: 50PX;
+    color: rgb(43, 43, 141);
+  }
+  h4{
+    margin-left: 5px;
+  }
+    }
+    .CARD3{
+      width: 20%;
+      height: 200PX;
+      background-color: rgb(186, 219, 240);
+      border-radius: 10PX;
+      margin: 35PX;
+      i{
+        margin-top: 30px;
+        margin-left: 120px;
+        font-size: 39px;
+        color: rgb(46, 46, 121); 
+    }
+    H3{
+      margin-left: 50PX;
+      color: rgb(43, 43, 141);
+    }
+    h4{
+      margin-left: 5px;
+    }
+      }
+      .CARD4{
+        width: 20%;
+        height: 200PX;
+        background-color: rgb(186, 219, 240);
+        border-radius: 10PX;
+        margin: 35PX;
+        i{
+          margin-top: 30px;
+          margin-left: 120px;
+          font-size: 39px;
+          color: rgb(46, 46, 121); 
+      }
+      H3{
+        margin-left: 60PX;
+        color: rgb(43, 43, 141);
+      }
+      h4{
+        margin-left: 5px;
+      }
+        }
+}
+.CARD1:hover{
+  box-shadow: 8PX 8PX 16PX rgba(176, 204, 230, 0.9) ,0 12px 40px rgba(64, 77, 135, 0.79);
+}
+.CARD2:hover{
+  box-shadow: 8PX 8PX 16PX rgba(176, 204, 230, 0.9) ,0 12px 40px rgba(64, 77, 135, 0.79);
+}
+.CARD3:hover{
+  box-shadow: 8PX 8PX 16PX rgba(176, 204, 230, 0.9) ,0 12px 40px rgba(64, 77, 135, 0.79);
+}
+.CARD4:hover{
+  box-shadow: 8PX 8PX 16PX rgba(176, 204, 230, 0.9) ,0 12px 40px rgba(64, 77, 135, 0.79);
+}
+
